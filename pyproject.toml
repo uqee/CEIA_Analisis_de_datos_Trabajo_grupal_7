@@ -8,6 +8,13 @@ dev = [
 ]
 
 [project]
+dependencies = ["pandas>=3.0.2"]
 name = "python"
 requires-python = ">=3.14"
 version = "0.1.0"
+
+[tool.ruff.format]
+preview = true
+
+[tool.ty.environment]
+python = ".venv"
