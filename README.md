@@ -1,4 +1,4 @@
-# CEIA / AdD & AMIA / Trabajo Grupal 7
+# CEIA / Analisis de datos / Trabajo Grupal 7
 
 ## Enlaces
 
